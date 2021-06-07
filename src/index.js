@@ -27,6 +27,4 @@ function salam(){
 const elements = <h1>{salam(nama)}</h1>
 // lalau kirim ke html.index menggunakan id
 ReactDOM.render(elements, document.getElementById('halo'));
-
->>>>>>> main
 reportWebVitals();
